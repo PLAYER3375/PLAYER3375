@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PLAYER3375
 - 👀 I’m interested in the future work as a project manager.
-- 🌱 I’m currently learning C and Python.
+- 🌱 I’m currently learning C and SQL.
 - 💞️ I’m looking to collaborate on simple projects, as I'm a beginner.
 - 📫 Contact me on LinkedIn.
 - ⚡ Always willing to learn new things.
