@@ -1,33 +1,14 @@
 <div align="center">
 
-  <!-- Estrutura do Card em Tabela para simular o layout e centralização -->
-  <table width="380px" style="text-align: center;">
-    <tr>
-      <td>
-        <br>
-        <!-- Foto de Perfil Oficial do seu GitHub -->
-        <img src="https://avatars.githubusercontent.com/u/184444257?v=4" width="130" height="130" alt="Foto de Matheus Gomes" style="border-radius: 50%;">
-        
-        <h2>Matheus Gomes</h2>
-        
-        <!-- Descrição -->
-        <p>
-          Estudante de Sistemas da Informação na Universidade Federal de Mato Grosso do Sul. <br>
-          Tenho experiência universitária nas seguintes tecnologias:
-        </p>
-        
-        <br>
-        
-        <!-- Logos de Tecnologia Padronizadas (Shields.io) -->
-        <p>
-          <img src="https://shields.io" alt="C">
-          <img src="https://shields.io" alt="Java">
-          <img src="https://shields.io" alt="GitHub">
-          <img src="https://shields.io" alt="Python">
-        </p>
-        <br>
-      </td>
-    </tr>
-  </table>
+<img src="https://avatars.githubusercontent.com/u/184444257?v=4" width="130" height="130" alt="Foto de Matheus Gomes">
+
+## Matheus Gomes
+
+Estudante de Sistemas da Informação na Universidade Federal de Mato Grosso do Sul.  
+Tenho experiência universitária nas seguintes tecnologias:
+
+<img src="https://github.com/gui-bus/TechIcons/blob/main/Light/Java.svg" width="30">
+<img src="https://github.com/gui-bus/TechIcons/blob/main/Light/Github.svg" width="30">
+<img src="https://github.com/gui-bus/TechIcons/blob/main/Light/Python.svg" width="30">
 
 </div>
