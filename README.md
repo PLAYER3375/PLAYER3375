@@ -1,12 +1,12 @@
 <div align="center">
 
   <!-- Estrutura do Card em Tabela para simular o layout e centralização -->
-  <table table-layout="fixed" width="380px" style="text-align: center;">
+  <table width="380px" style="text-align: center;">
     <tr>
       <td>
         <br>
         <!-- Foto de Perfil Oficial do seu GitHub -->
-        <img src="https://github.com" width="130" height="130" alt="Foto de Matheus Gomes" style="border-radius: 50%;">
+        <img src="https://avatars.githubusercontent.com/u/184444257?v=4" width="130" height="130" alt="Foto de Matheus Gomes" style="border-radius: 50%;">
         
         <h2>Matheus Gomes</h2>
         
